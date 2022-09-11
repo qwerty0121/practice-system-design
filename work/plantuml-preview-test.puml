@@ -1,0 +1,3 @@
+@startuml PlantUMLプレビューテスト
+Bob -> Alice : hello
+@enduml
